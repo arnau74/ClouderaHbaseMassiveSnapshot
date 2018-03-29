@@ -15,6 +15,7 @@ It wrotes as output the file "list_snapshots.txt" that is used from the other sc
 
 -delete_snapshot.sh : after your activity, you can delete snapshots if not needed anymore.
 
+-grant.sh : this script permit to change grants of a user on a table list
 
 These scripts can be used both for refresh from ClusterA to ClusterB and for Backup purposes.
 
